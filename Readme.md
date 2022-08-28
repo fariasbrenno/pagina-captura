@@ -1,3 +1,2 @@
-# Github
-Arquivo da aula de Git e Github para iniciantes
-Teste de modificação Git
+# Projeto - Página de aptura
+Projeto desenvolvido no curso Prograador BR
